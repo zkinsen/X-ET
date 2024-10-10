@@ -1,4 +1,4 @@
-# X-ET 是一个 ET, FairyGUI, Luban, YooAsset 的组合
+# X-ET 是一个 ET, FairyGUI, Luban, YooAsset, HybridCLR 的组合
 
 # 运行指南
 ## 开发模式
